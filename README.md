@@ -53,5 +53,5 @@
 
 - **Wireframe and Mockup Designs**: [View Wireframes and Mockups](https://www.figma.com/design/VYr5HuIwVIR3o8vSiBhyXs/BeeWise?node-id=0-1&t=gQjz45vggBav7uEg-1)
 - **Trello Board for Project Management**: [View Trello Board](https://trello.com/invite/b/6706a4e049dd62d89fa3541b/ATTI1d691ccaf8ad207b06027539ff12e5d35DC3CDFE/beewise)
-- **Documentation**: [View Documentation](file:///C:/Users/Orange/Desktop/Areej's%20things/Bee%20Wise%20DOC_Areej%20Abumuhfouz.pdf)
+- **Documentation**: [View Documentation](https://github.com/progAreej/BeeWiseFinal/blob/main/Bee%20Wise%20DOC_Areej%20Abumuhfouz.pdf)
 - **Presentation**: [View Project Presentation](https://www.canva.com/design/DAGJRje0oIs/TuRYxNpBFCpplq3rLgvssw/edit?utm_content=DAGJRje0oIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
